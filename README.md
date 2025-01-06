@@ -1,1 +1,13 @@
-# megatron
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>doreamon</title>
+</head>
+<body>
+    <h1>Chào em</h1>
+    <p>solo liên quân không</p>
+    <button onclick="alert('ai vừa bấm vào thì chưa đủ trình')">khiêu chiến</button>
+</body>
+</html>
